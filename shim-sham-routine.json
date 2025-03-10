@@ -18,7 +18,7 @@
       "description": "Cross step pattern"
     },
     {
-      "name": "Tack Annie",
+      "name": "Tacky Annie",
       "count": "8",
       "description": "Tack Annie variation"
     },
@@ -36,6 +36,41 @@
       "name": "Push and Cross",
       "count": "8",
       "description": "Push and cross step combination"
+    },
+    {
+      "name": "Tacky Annie",
+      "count": "8",
+      "description": "Repeat of Tack Annie"
+    },
+    {
+      "name": "Half Break",
+      "count": "4",
+      "description": "Repeat of half break"
+    },
+    {
+      "name": "Full Break",
+      "count": "8",
+      "description": "Repeat of full break"
+    },
+    {
+      "name": "Boogie Back",
+      "count": "8",
+      "description": "Boogie steps moving backward"
+    },
+    {
+      "name": "Boogie Forward",
+      "count": "8",
+      "description": "Boogie steps moving forward"
+    },
+    {
+      "name": "Shorty George",
+      "count": "8",
+      "description": "Shorty George step sequence"
+    },
+    {
+      "name": "Break",
+      "count": "8",
+      "description": "Final freeze/break"
     }
   ]
-} 
+}
